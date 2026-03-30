@@ -1,5 +1,1 @@
 # branching
-p{
-    color:blueviolet;
-    font-size: 100px;
-}
